@@ -56,13 +56,6 @@ Soy un programador apasionado enfocado en crear soluciones innovadoras y aprende
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 🤝 Conectemos
 
 - 📧 **Email**: akemikeyemsi@gmail.com
