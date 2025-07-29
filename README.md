@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola! Soy [Tu Nombre]
+# 👨‍💻 ¡Hola!
 
 ### Desarrollador Full-Stack en crecimiento 🚀
 
@@ -67,7 +67,7 @@ Soy un programador apasionado enfocado en crear soluciones innovadoras y aprende
 
 - 📧 **Email**: akemikeyemsi@gmail.com
 - 💬 **Discord**: keyemsi#5607
-- 🐱 **GitHub**: [@TU_USERNAME](https://github.com/TU_USERNAME)
+- 🐱 **GitHub**: [@keyemsi](https://github.com/keyemsi)
 
 ### 📅 Horario de Disponibilidad para Colaboraciones
 | Día | Lunes | Martes | Miércoles | Jueves |
